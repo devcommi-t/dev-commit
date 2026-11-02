@@ -1,0 +1,13 @@
+{
+  "name": "dev-commit-site",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Website and admin panel for <dev.commit>",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node build.js",
+    "create-admin": "node create-admin.js"
+  },
+  "engines": { "node": ">=18" }
+}

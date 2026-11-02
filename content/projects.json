@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "demo-storefront-one",
+    "demo": true,
+    "featured": true,
+    "title": "Demo Storefront One",
+    "client": "",
+    "category": "Shopify Store Design",
+    "summary": "Demo entry. Replace with a real project: a short description of the storefront and what you delivered.",
+    "services": [
+      "Store design",
+      "Theme development"
+    ],
+    "url": "",
+    "image": "",
+    "mobileImage": "",
+    "overview": "Demo content. Describe the brand, the brief and the result.",
+    "goals": [],
+    "challenges": [],
+    "approach": "",
+    "tech": [
+      "Shopify Online Store 2.0"
+    ],
+    "outcomes": []
+  },
+  {
+    "slug": "demo-storefront-two",
+    "demo": true,
+    "featured": false,
+    "title": "Demo Storefront Two",
+    "client": "",
+    "category": "Theme Customization",
+    "summary": "Demo entry. Add screenshots to assets/img/projects/ and point image and mobileImage at them.",
+    "services": [
+      "Theme customization"
+    ],
+    "url": "",
+    "image": "",
+    "mobileImage": "",
+    "overview": "",
+    "goals": [],
+    "challenges": [],
+    "approach": "",
+    "tech": [],
+    "outcomes": []
+  },
+  {
+    "slug": "nffefngk",
+    "demo": true,
+    "featured": true,
+    "title": "nffefngk",
+    "client": "",
+    "category": "Shopify Store Design",
+    "summary": "gbfngggggggggggggggggggggggertgeth",
+    "services": [],
+    "url": "",
+    "image": "",
+    "mobileImage": "",
+    "overview": "",
+    "goals": [],
+    "challenges": [],
+    "approach": "",
+    "tech": [],
+    "outcomes": []
+  }
+]

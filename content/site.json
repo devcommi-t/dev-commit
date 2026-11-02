@@ -1,0 +1,265 @@
+{
+  "name": "<dev.commi>t",
+  "title": "<dev.commi>t — Shopify Design & Development Studio",
+  "description": "A modern digital studio building premium Shopify storefronts for ambitious brands.",
+  "siteUrl": "",
+  "email": "devcommitt@gmail.com",
+  "formEndpoint": "",
+  "social": {
+    "instagram": "https://www.instagram.com/dev.committ?rpxt=NWx1Y24wdHh5MDQ1&utm_source=qr",
+    "linkedin": ""
+  },
+  "legal": [],
+  "showDemoProjects": true,
+  "sections": {
+    "testimonials": true,
+    "faq": true,
+    "why": true
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Work",
+      "href": "/work/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "About",
+      "href": "/about/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    }
+  ],
+  "headerCta": {
+    "label": "Start a Project",
+    "href": "/contact/"
+  },
+  "hero": {
+    "eyebrow": "Shopify design & development studio",
+    "title": "Shopify Stores Built to Move Brands Forward.",
+    "text": "We design, customize, and develop Shopify storefronts that bring your brand to life and make every interaction count.",
+    "primary": {
+      "label": "Explore Our Work",
+      "href": "/work/"
+    },
+    "secondary": {
+      "label": "Start a Project",
+      "href": "/contact/"
+    }
+  },
+  "categories": [
+    "Shopify Store Design",
+    "Theme Development",
+    "Theme Customization",
+    "Store Redesign",
+    "E-commerce UI/UX"
+  ],
+  "services": [
+    {
+      "title": "Shopify Store Design",
+      "desc": "Brand-led storefront design, from layout to component detail.",
+      "value": "A store that looks like your brand, not a template.",
+      "deliverables": [
+        "Design direction",
+        "Key page layouts",
+        "Desktop and mobile designs"
+      ]
+    },
+    {
+      "title": "Shopify Theme Development",
+      "desc": "Custom themes built on Shopify's Online Store 2.0 architecture.",
+      "value": "Clean, maintainable code your team can keep building on.",
+      "deliverables": [
+        "Custom theme",
+        "Reusable sections",
+        "Theme documentation"
+      ]
+    },
+    {
+      "title": "Shopify Theme Customization",
+      "desc": "Tailoring an existing theme to fit your brand and workflow.",
+      "value": "Faster to launch while still feeling distinctive.",
+      "deliverables": [
+        "Theme setup",
+        "Custom styling",
+        "Section adjustments"
+      ]
+    },
+    {
+      "title": "Shopify 2.0 Sections and Templates",
+      "desc": "Flexible sections and JSON templates your team edits in the theme editor.",
+      "value": "Update pages yourself without a developer.",
+      "deliverables": [
+        "Custom sections",
+        "JSON templates",
+        "Editor settings"
+      ]
+    },
+    {
+      "title": "Responsive E-commerce Experiences",
+      "desc": "Storefronts designed mobile-first and refined for every screen.",
+      "value": "A consistent shopping experience on any device.",
+      "deliverables": [
+        "Responsive layouts",
+        "Touch-friendly interactions",
+        "Cross-device testing"
+      ]
+    },
+    {
+      "title": "Store Redesign and Optimization",
+      "desc": "Rethinking an existing store's structure, UX and visual design.",
+      "value": "Clearer navigation and a stronger brand presence.",
+      "deliverables": [
+        "UX review",
+        "Redesigned key pages",
+        "Implementation"
+      ]
+    },
+    {
+      "title": "Shopify App and Third-Party Integrations",
+      "desc": "Connecting apps and services into your storefront cleanly.",
+      "value": "Tools that work together without bloating the theme.",
+      "deliverables": [
+        "App evaluation",
+        "Integration setup",
+        "Theme compatibility checks"
+      ]
+    },
+    {
+      "title": "Ongoing Maintenance and Support",
+      "desc": "Continued improvements and fixes after launch.",
+      "value": "A reliable partner as your store grows.",
+      "deliverables": [
+        "Agreed support scope",
+        "Updates and fixes",
+        "Handover notes"
+      ]
+    }
+  ],
+  "process": [
+    {
+      "title": "Discover",
+      "desc": "Understand the brand, audience, goals, and requirements."
+    },
+    {
+      "title": "Design",
+      "desc": "Plan the user experience and develop the visual direction."
+    },
+    {
+      "title": "Build",
+      "desc": "Implement the Shopify storefront using maintainable, reliable code."
+    },
+    {
+      "title": "Refine",
+      "desc": "Test responsiveness, accessibility, performance, and functionality."
+    },
+    {
+      "title": "Launch",
+      "desc": "Prepare the storefront for launch and provide agreed handover support."
+    }
+  ],
+  "why": [
+    {
+      "title": "Brand-focused design",
+      "desc": "Every decision starts from your brand, not a preset layout."
+    },
+    {
+      "title": "Customizable Shopify solutions",
+      "desc": "Built so your team can edit content without code."
+    },
+    {
+      "title": "Responsive experiences",
+      "desc": "Designed deliberately for mobile, tablet and desktop."
+    },
+    {
+      "title": "Maintainable implementation",
+      "desc": "Readable, organized code that is easy to extend."
+    },
+    {
+      "title": "Attention to detail",
+      "desc": "Spacing, type and interaction states get real care."
+    },
+    {
+      "title": "Clear communication",
+      "desc": "Structured delivery so you always know where things stand."
+    }
+  ],
+  "testimonials": [],
+  "engagements": [
+    {
+      "title": "Project-based",
+      "desc": "A defined scope for a new store, redesign or custom build."
+    },
+    {
+      "title": "Support retainer",
+      "desc": "Ongoing improvements and maintenance on an agreed scope."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you build Shopify themes or standalone websites?",
+      "a": "We build Shopify storefronts: custom themes, theme customizations and Online Store 2.0 sections."
+    },
+    {
+      "q": "Can I edit the store myself afterwards?",
+      "a": "Yes. We build with sections and templates that can be edited in the Shopify theme editor."
+    },
+    {
+      "q": "How do we get started?",
+      "a": "Send an inquiry through the contact form with your goals and current site, and we will reply to discuss next steps."
+    }
+  ],
+  "about": {
+    "mission": "Build premium Shopify storefronts that give ambitious brands a distinctive, dependable home online.",
+    "design": "We design with restraint: strong typography, generous space and clear hierarchy, so the brand and the products lead.",
+    "development": "We write clean, documented, maintainable code so a store stays fast to change long after launch.",
+    "approach": "Good e-commerce is clarity: easy to browse, easy to trust, easy to buy from. We start from your brand and customers, then build only what serves them."
+  },
+  "team": [],
+  "budgets": [],
+  "cta": {
+    "title": "Have a Brand Worth Building For?",
+    "text": "Let's turn your next e-commerce idea into a storefront built with purpose.",
+    "label": "Let's Talk",
+    "href": "/contact/"
+  },
+  "servicesIntro": {
+    "title": "Everything You Need for a Powerful Shopify Store.",
+    "text": "From design to development, we build Shopify stores that are fast, flexible and ready to grow with your brand."
+  },
+  "processIntro": {
+    "title": "A Clear Path from Idea to Launch.",
+    "text": "We follow a focused and transparent process to turn your vision into a high-performing Shopify store."
+  },
+  "whyTitle": "Built for Brands That Want More.",
+  "statement": "We turn ideas into Shopify storefronts, custom themes and flexible sections that help brands sell",
+  "theme": {
+    "background": "#FAF3E8",
+    "primary": "#2F5D50",
+    "accent": "#C8674A",
+    "surface": "#F1E6D3",
+    "text": "#2F5D50"
+  },
+  "contactPage": {
+    "title": "Get in Touch",
+    "text": "Have a project in mind? Fill out the form and we will get back to you.",
+    "emailHeading": "Email",
+    "submitLabel": "Send inquiry",
+    "successMessage": "Thank you. Your inquiry was sent and we will reply by email.",
+    "channels": [],
+    "extraFields": []
+  },
+  "marquee": {
+    "enabled": false,
+    "speed": "normal",
+    "items": []
+  }
+}
